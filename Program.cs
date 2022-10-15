@@ -25,7 +25,6 @@ namespace _4_1_16
             };
             int n = arr.GetLength(0);
             int m = arr.GetLength(1);
-
             int k = 4;
             bool flag = false;
             for (int i = 0; i < n; i++)
